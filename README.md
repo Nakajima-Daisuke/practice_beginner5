@@ -1,2 +1,6 @@
 # practice_beginner5
- サイト模写(クリ★スタ初級編)
+・クリ★スタさんのHP(https://crestadesign.org/cording-first/)  
+・XDからのカンプ模写 2021.02.22~  
+## 使用言語・ツール  
+HTML/CSS/JavaScript/Adobe XD
+ 
